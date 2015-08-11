@@ -15,7 +15,6 @@ SUBDIRS =   \
     macros  \
     swig    \
     php     \
-    tests   \
     tools
 
 BUILT_SOURCES = geos_svn_revision.h
