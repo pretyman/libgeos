@@ -11,7 +11,6 @@ SUBDIRS =   \
     include \
     src     \
     capi    \
-    doc     \
     macros  \
     swig    \
     php     \
